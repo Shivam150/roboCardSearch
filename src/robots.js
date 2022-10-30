@@ -42,6 +42,30 @@ export const robots = [
     name: 'Patricia Lebsack',
     username: 'Karianne',
     email: 'Julianne.OConner@kory.org'
+},
+{
+    id:900,
+    name: 'Aman Pandey',
+    username: 'aman123',
+    email:'aman123@gmail.com'
+},
+{
+    id:1000,
+    name: 'Abhishek kumar',
+    username: 'abhishek123',
+    email: 'abhishek123@gmail.com'
+},
+{
+    id:1001,
+    name: 'Prashant kumar',
+    username: 'prashant123',
+    email: 'prashant123@gmail.com'
+},
+{
+    id:1002,
+    name: 'Anoop Singh',
+    username: 'anoop123',
+    email: 'anoop123@gmail.com'
 }
 
 
