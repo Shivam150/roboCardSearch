@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboCardSearch/static/css/main.f26dcc16.css",
+    "main.js": "/roboCardSearch/static/js/main.e43b3d3e.js",
+    "static/js/787.9f4cdc80.chunk.js": "/roboCardSearch/static/js/787.9f4cdc80.chunk.js",
+    "index.html": "/roboCardSearch/index.html",
+    "main.f26dcc16.css.map": "/roboCardSearch/static/css/main.f26dcc16.css.map",
+    "main.e43b3d3e.js.map": "/roboCardSearch/static/js/main.e43b3d3e.js.map",
+    "787.9f4cdc80.chunk.js.map": "/roboCardSearch/static/js/787.9f4cdc80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26dcc16.css",
+    "static/js/main.e43b3d3e.js"
+  ]
+}
